@@ -1,0 +1,74 @@
+.all{
+        display: flex;
+        gap: 20%;
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-top: 5%;
+        width: 100%;
+
+}
+.foot{
+        display: flex;
+        gap:30% ;
+       
+
+
+}
+.footlnk> h1{
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+
+}
+.footlnk> p{
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: left;
+        gap: 30%;
+        line-height: 35px;
+
+
+}
+
+.tab3{
+        display: flex;
+        gap: 20%;
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-top: 5%;
+        width: 100%;
+
+}
+
+.anothe{
+        display: flex;
+        gap:30% ;
+}
+
+.bod2{
+        display: flex;
+        border-top: 0.9px  solid black;
+        padding-bottom: 2%;
+        padding-top: 2%;
+        padding-left: 7%;
+        padding-right: 7%;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #515458;
+        gap:70% ;
+
+}
+.foot2{
+        display: flex;
+        gap:30% ;
+
+}

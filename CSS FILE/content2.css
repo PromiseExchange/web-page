@@ -1,0 +1,63 @@
+
+.containerL{
+                background: linear-gradient(141.34deg, #F5F0FF 0%, #EFF6FE 50.36%, #EDFAF5 100%);
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 30px;
+                padding: 7%;
+}
+                
+   #Privacy{    
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                
+    
+   }
+   
+
+
+   #NDA{
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+   }
+   
+   #EULA{       
+               
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+   }
+
+   #Cookie{
+                
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+   }
+        
+    #Trust{     
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+               
+
+    }
+    #ToS{
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }    
+    #Licensing{
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    #Privacy{
+                font-size: 25px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+.name{
+        display: flex;
+        gap: 3%;
+}
+
+

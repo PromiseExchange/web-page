@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    display: flex;
+    gap: 20%;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+.logo{
+    font-size:30px;
+    font-weight:900;
+    color: darkblue;
+}
+.links{
+    display: flex;
+    gap: 10%;
+}
+.links >select {
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-weight: normal;  
+}
+p.round3 {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    border: 12px solid blue;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    
+
+
+}
+     
+
